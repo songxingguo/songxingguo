@@ -35,14 +35,11 @@
 
 </div>
 
-
-#  🙋 Hello
+## 🤺 About Me
 
 <table>
   
 <tr><td>
-
-### 🤺 About Me
 
 $$
 \textbf{life} = \int_{birth}^{now} \mathbf{happy}(time) + \mathbf{sad}(time) d(time)
@@ -59,7 +56,7 @@ $$
 </td></tr>
 </table>
 
-### 📊 WakaTime
+## 📊 WakaTime
 
 <div align="center" >
 
