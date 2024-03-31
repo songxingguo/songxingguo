@@ -19,9 +19,9 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://blog.songxingguo.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://space.bilibili.com/550005660/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://www.yuque.com/songxingguo"><img src="https://img.shields.io/badge/YuQue-语雀-green" /></a>&emsp;
+    <a href="https://blog.songxingguo.com/"  target="_blank" ><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://space.bilibili.com/550005660/"  target="_blank" ><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://www.yuque.com/songxingguo" target="_blank" ><img src="https://img.shields.io/badge/YuQue-语雀-green" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=songxingguo&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
