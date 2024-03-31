@@ -35,6 +35,7 @@
 
 </div>
 
+
 #  🙋 Hello
 
 <table>
@@ -43,7 +44,11 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/songxingguo/songxingguo/assets/images/jobs.png" />
+$$
+\textbf{life} = \int_{birth}^{now} \mathbf{happy}(time) + \mathbf{sad}(time) d(time)
+$$
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
 <p>&emsp;&emsp;嗨，你好，我是宋兴国。</p>
 <p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
@@ -53,6 +58,8 @@
 
 </td></tr>
 </table>
+
+### 📊 WakaTime
 
 <div align="center" >
 
@@ -73,6 +80,13 @@
       </picture>
   </tr>
 </table>
+
+
+## 📽️ Some Projects
+
+| Name                                                                                         | Stars                                                                               | Description                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**WeUI**](https://github.com/songxingguo/WeUI)                    | ![stars](https://img.shields.io/github/stars/songxingguo/WeUI)              | 我的微信小程序 UI 库                                                                                                                                     |
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
