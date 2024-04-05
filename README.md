@@ -81,9 +81,10 @@ $$
 
 ## 📽️ Some Projects
 
-| Name                                                                                         | Stars                                                                               | Description                                                                                                                                                      |
-| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**WeUI**](https://github.com/songxingguo/WeUI)                    | ![stars](https://img.shields.io/github/stars/songxingguo/WeUI)              | 我的微信小程序 UI 库                                                                                                                                     |
+                                                                                                                             |
+| 项目 | Stars | Forks |
+| --- | --- | ---|
+|  [我的微信小程序 UI 库](https://github.com/songxingguo/WeUI)     | <img src="https://img.shields.io/github/stars/songxingguo/WeUI?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/songxingguo/WeUIs?style=social" height="22" align="top" /> |
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
